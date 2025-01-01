@@ -37,7 +37,7 @@ A feature-rich **Java-based Download Manager** application designed to simplify 
 ## 📸 Screenshots
 
 ### Main Interface
-![Download Manager Main Interface](path/to/main-screenshot.png)
+![Download Manager Main Interface](https://github.com/Vishvapriya-24/Download-Manager/commit/4aa587d2ef4046d6fd28ab2a2c9d73d2cea92832)
 
 
 ---
